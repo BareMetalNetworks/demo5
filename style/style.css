@@ -1,0 +1,116 @@
+html body {
+	background-color: #312a27 !important;
+}
+
+.hero {
+	background-image: url("../img/01.jpg");
+	padding: 30vh 0;
+	background-size: cover;
+	font-family: 'Staatliches', serif;
+}
+
+.navbar {
+	font-family: 'Fredoka One', serif;
+	font-size: 1.1rem;
+	background-color: #000 !important;
+}
+
+.navbar a {
+	color: #fff;
+}
+
+.navbar a:hover {
+	color: #007ea3;
+}
+.about {
+	padding: 5vh 0;
+}
+
+.stats {
+	padding: 15vh 0;
+}
+
+.stats p {
+	color: #007ea3;
+}
+
+.team {
+	padding: 10vh 0;
+}
+
+.team-member img {
+	width: 15rem;
+	height: 15rem;
+	margin: 2rem 0;
+}
+
+i.fas {
+	color: #007ea3;
+
+}
+
+
+.about img {
+		width: 20rem;
+	height: 20rem;
+	margin: 2rem 0;
+	border: 2px solid black;
+}
+
+.about h1 {
+	font-family: 'Staatliches', serif;
+	font-size: 3em;
+}
+
+.team h1 {
+	font-family: 'Staatliches', serif;
+	font-size: 3em;
+}
+
+.about h2 {
+	font-family: 'Staatliches', serif;
+	font-size: 2em;
+}
+
+.contact h1 {
+
+	font-family: 'Staatliches', serif;
+	font-size: 3em;
+}
+
+}
+
+
+.footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+    color: #ffffff;
+}
+.nav-list li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: ;
+}
+
+.nav-list li a:hover:before {
+    margin-left: 0;
+    opacity: 1;
+    visibility: visible;
+}
+
+ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-list li a:before {
+   
+
+    color: #4d6de6;
+    display: inline-block;
+    vertical-align: baseline;
+    margin-left: -28px;
+    margin-right: 7px;
+    opacity: 0;
+    visibility: hidden;
+    transition: .22s ease;
+}

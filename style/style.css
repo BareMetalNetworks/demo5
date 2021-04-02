@@ -54,7 +54,7 @@ i.fas {
 		width: 20rem;
 	height: 20rem;
 	margin: 2rem 0;
-	border: 2px solid black;
+	border: 2px solid white;
 }
 
 .about h1 {
@@ -84,6 +84,7 @@ i.fas {
 .footer-classic a, .footer-classic a:focus, .footer-classic a:active {
     color: #ffffff;
 }
+
 .nav-list li {
     padding-top: 5px;
     padding-bottom: 5px;

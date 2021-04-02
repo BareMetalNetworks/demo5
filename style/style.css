@@ -10,7 +10,7 @@ html body {
 }
 
 .navbar {
-	font-family: 'Fredoka One', serif;
+	font-family: 'Pacifico', serif;
 	font-size: 1.1rem;
 	background-color: #000 !important;
 }
@@ -49,6 +49,9 @@ i.fas {
 
 }
 
+.text-muted {
+	color: #a4a4a4 !important;
+}
 
 .about img {
 		width: 20rem;
@@ -57,28 +60,20 @@ i.fas {
 	border: 2px solid white;
 }
 
-.about h1 {
-	font-family: 'Staatliches', serif;
+
+
+h1 {
+	font-family: 'Pacifico', serif !important;
 	font-size: 3em;
+	
 }
 
-.team h1 {
-	font-family: 'Staatliches', serif;
-	font-size: 3em;
+h2 {
+	font-family: 'Pacifico', serif !important;
+	
+	
 }
 
-.about h2 {
-	font-family: 'Staatliches', serif;
-	font-size: 2em;
-}
-
-.contact h1 {
-
-	font-family: 'Staatliches', serif;
-	font-size: 3em;
-}
-
-}
 
 
 .footer-classic a, .footer-classic a:focus, .footer-classic a:active {

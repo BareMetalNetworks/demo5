@@ -53,7 +53,7 @@ i.fas {
 	color: #a4a4a4 !important;
 }
 
-.about img {
+.services img {
 		width: 20rem;
 	height: 20rem;
 	margin: 2rem 0;
@@ -61,6 +61,12 @@ i.fas {
 }
 
 
+.about-us img {
+			width: 40rem;
+	height: 20rem;
+	margin: 2rem 0;
+	border: 2px solid black;
+}
 
 h1 {
 	font-family: 'Pacifico', serif !important;

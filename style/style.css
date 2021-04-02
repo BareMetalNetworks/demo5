@@ -3,10 +3,39 @@ html body {
 }
 
 .hero {
-	background-image: url("../img/01.jpg");
-	padding: 30vh 0;
-	background-size: cover;
 	font-family: 'Staatliches', serif;
+}
+
+.heroOverlay {
+  z-index: 12;
+  position: absolute;
+  top: 30%;
+  left: 60px;
+  right: 0px;
+  margin: auto auto 0 10%;
+  width: 80%;
+ 
+  padding: 30px 0;
+}
+
+.heroOverlay h1 {
+  font-size: 5.5vw;
+}
+
+.heroOverlay p {
+  font-size: 3vw;
+}
+
+.heroOverlay a {
+  font-size: 2vw;
+  padding: .5vw 1vw;
+}
+
+
+.carousel-inner{
+  width:100%;
+  max-height: 750px !important;
+  background-size: cover !important;
 }
 
 .navbar {

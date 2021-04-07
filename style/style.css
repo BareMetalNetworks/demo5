@@ -51,6 +51,11 @@ html body {
 .navbar a:hover {
 	color: #007ea3;
 }
+
+/*.navbar-toggler-icon {
+
+  background-color: #fff !important;
+}*/
 .about {
 	padding: 5vh 0;
 }

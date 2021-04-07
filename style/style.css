@@ -60,6 +60,14 @@ html body {
 	padding: 5vh 0;
 }
 
+.about-us img {
+      width: 40rem;
+  height: 20rem;
+  margin: 2rem 0;
+  border: 2px solid white;
+}
+
+
 .stats {
 	padding: 15vh 0;
 }
@@ -95,12 +103,6 @@ i.fas {
 }
 
 
-.about-us img {
-			width: 40rem;
-	height: 20rem;
-	margin: 2rem 0;
-	border: 2px solid black;
-}
 
 h1 {
 	font-family: 'Pacifico', serif !important;
